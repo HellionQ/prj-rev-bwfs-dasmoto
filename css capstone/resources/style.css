@@ -1,0 +1,52 @@
+.cover h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url(./img/pattern.jpeg);
+  opacity: 1;
+  background-size: auto;
+  text-align: center;
+}
+
+#brushes h1 {
+  background-color: mediumspringgreen;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.hacksaw {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+#frames h1 {
+  background-color: lightcoral;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.art {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+#paint h1 {
+  background-color: skyblue;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.clean {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
